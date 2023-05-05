@@ -1,0 +1,102 @@
+{
+    "items": {
+        "MilitaryConvoy": [
+            {
+                "itemName": "Base.Pistol",
+                "chance": 23
+            },
+            {
+                "itemName": "Base.Revolver",
+                "chance": 26
+            },
+            {
+                "itemName": "Base.AssaultRifle",
+                "chance": 17
+            },
+            {
+                "itemName": "Radio.WalkieTalkie4",
+                "chance": 25
+            },
+            {
+                "itemName": "Base.PetrolCan",
+                "chance": 30
+            },
+            {
+                "itemName": "Base.NoiseTrap",
+                "chance": 30
+            },
+            {
+                "itemName": "Base.CarLights",
+                "chance": 60
+            }
+        ],
+        "BanditsConvoy": [
+            {
+                "itemName": "Base.Pistol",
+                "chance": 19
+            },
+            {
+                "itemName": "Base.Revolver",
+                "chance": 11
+            },
+            {
+                "itemName": "Base.AssaultRifle",
+                "chance": 14
+            },
+            {
+                "itemName": "Base.BarBell",
+                "chance": 60
+            }
+        ],
+        "LoneSurvivor": [
+            {
+                "itemName": "Base.Pistol",
+                "chance": 18
+            },
+            {
+                "itemName": "Base.Revolver",
+                "chance": 12
+            },
+            {
+                "itemName": "Base.AssaultRifle",
+                "chance": 20
+            },
+            {
+                "itemName": "Radio.WalkieTalkie2",
+                "chance": 35
+            },
+            {
+                "itemName": "Base.HandTorch",
+                "chance": 50
+            },
+            {
+                "itemName": "Base.LouisvilleMap9",
+                "chance": 40
+            },
+            {
+                "itemName": "Base.Cigarettes",
+                "chance": 80
+            },
+            {
+                "itemName": "Base.PetrolCan",
+                "chance": 20
+            },
+            {
+                "itemName": "Base.CannedCarrots",
+                "chance": 70
+            },
+            {
+                "itemName": "Base.CannedPineapple",
+                "chance": 80
+            },
+            {
+                "itemName": "Base.CannedRedRadish",
+                "chance": 60
+            }
+
+    
+        ],
+        "Military": [
+        ]
+    }
+}

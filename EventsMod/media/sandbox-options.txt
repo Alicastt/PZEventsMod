@@ -1,0 +1,50 @@
+VERSION = 1,
+
+option EventsMod.ChanceOfEvent
+{
+    type = integer,
+    min = 0,
+    max = 100,
+    default = 12,
+    page = EventsMod,
+    translation = EventsMod_ChanceOfEvent,
+}
+
+option EventsMod.ZombieRadius
+{
+    type = integer,
+    min = 1,
+    max = 200,
+    default = 10,
+    page = EventsMod,
+    translation = EventsMod_ZombieRadius,
+}
+
+option EventsMod.MinAmountZombie
+{
+    type = integer,
+    min = 10,
+    max = 500,
+    default = 200,
+    page = EventsMod,
+    translation = EventsMod_MinAmountZombie,
+}
+option EventsMod.MaxAmountZombie
+{
+    type = integer,
+    min = 10,
+    max = 500,
+    default = 200,
+    page = EventsMod,
+    translation = EventsMod_MaxAmountZombie,
+}
+
+option EventsMod.MaxAmountSpawnedCars
+{
+    type = integer,
+    min = 1,
+    max = 4,
+    default = 2,
+    page = EventsMod,
+    translation = EventsMod_MaxAmountSpawnedCars,
+}
