@@ -27,7 +27,7 @@ EventsMod_Core.EventLoop = function(_)
                 EventsMod_Core.SpawnSpecialItem(lootCoords, "EventsMod.ExperimentalSyringe", 3, 5)
                 EventsMod_Core.SpawnSpecialItem(lootCoords, "FN_P90", 3, 1)
                 EventsMod_Core.SpawnSpecialItem(lootCoords, "P90Clip", 3, 2)
-                EventsMod_Core.SpawnSpecialItem(lootCoords, "Bullets57Box", 3, 4)
+                EventsMod_Core.SpawnSpecialItem(lootCoords, "Bullets57Box", 3, 5)
             end
 
             EventsMod_Core.event = nil

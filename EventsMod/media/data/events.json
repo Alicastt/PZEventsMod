@@ -6,7 +6,7 @@
             "hasVehicle": true,
             "spawnCoords": "GenericEvent",
             "weapons": 2,
-            "ammo": 7,
+            "ammo": 8,
             "gunMag": 3,
             "weaponPart": 2
         },
@@ -15,7 +15,7 @@
             "announcement" : "Noticias Diarias. Unos bandidos tuvieron un encuentro con una horda errante, no ha quedado nadie con vida. Las coordenadas han sido: ",
             "hasVehicle": true,
             "spawnCoords": "GenericEvent",
-            "weapons": 1,
+            "weapons": 2,
             "ammo": 4,
             "gunMag": 1,
             "weaponPart": 1
@@ -32,7 +32,7 @@
         },
         "Medkits": {
             "chance": 10,
-            "announcement" : " URGENTE URGENTE /n El doctor wilovski estaba trabajando en una cura para el virus zombie, pero hemos perdido contacto al hacer el checkeo diario, repito, hemos perdido contacto. Cualquiera que esté cerca, por favor acuda a las coordenadas: ",
+            "announcement" : " URGENTE URGENTE /n El doctor wilovski estaba trabajando en una cura para el virus zombie, pero hemos perdido contacto al hacer el checkeo diario, repito, hemos perdido contacto. Cualquiera que esté cerca, preparaos bien y por favor acuda a las coordenadas: ",
             "hasVehicle": false,
             "spawnCoords": "Medkits",
             "weapons": 0,
@@ -46,7 +46,7 @@
             "hasVehicle": true,
             "spawnCoords": "Military",
             "weapons": 4,
-            "ammo": 12,
+            "ammo": 13,
             "gunMag": 4,
             "weaponPart": 3
         }
