@@ -78,7 +78,7 @@ EventsMod_Core.StartMainLoop = function()
         Events.OnTick.Add(EventsMod_Core.EventLoop)
     end
 
-    Events.EveryHours.Add(EventsMod_Core.MainLoop)
+    Events.EveryDays.Add(EventsMod_Core.MainLoop)
 end
 
 if not isClient() and not isServer() then
